@@ -1,0 +1,73 @@
+body {
+    background-image: linear-gradient(-100deg,  red, black);
+    /* width: 100%; */
+    background-size: cover;
+}
+
+.titulo-cabecalho {
+    color: white;
+    text-align: center;
+    margin-top: 37px;
+    cursor: pointer;
+}
+
+.logo-senai {
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 180px;
+    cursor: pointer;
+}
+
+.cabecalho-tamanho{
+    height: 100px;
+}
+
+.linha-cabecalho{
+    color: rgb(255, 255, 255);
+    margin-top: 25px;
+    border: 2px solid white;
+    width: 100%;
+}
+
+.head{
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+}
+
+.voltar{
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    border: black;
+    background-color: black;
+    margin-left: 50px;
+    color: white;
+    /* text-align: center; */
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.voltar:hover{
+    background-color: rgb(29, 29, 29);
+}
+
+.imagem-do-site{
+    margin-top: 25px;
+    margin-left: -20px;
+    width: 320px;
+}
+
+.texto-historia{
+    margin-left: 20px;
+    margin-top: 15px;
+    color: white;
+}
+
+.senai-titulo{
+    color: white;
+    margin-top: 20px;
+    margin-left: 420px;
+}
